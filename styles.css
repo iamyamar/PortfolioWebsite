@@ -493,9 +493,19 @@ footer {
 .snach {
   min-width: 300px;
   height: 200px;
-  border-radius: 20px;
-  background-color: #212d45;
-  margin: 10px 10px 50px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.skhead {
+  font-size: 2rem;
+  margin-top: 10px;
+}
+.skp {
+  color: #767676;
+  line-height: 1.5;
+  letter-spacing: 2px;
 }
 .numb {
   font-size: 3rem;
@@ -505,4 +515,12 @@ footer {
   padding: 0 10px;
   color: #828282;
   /* letter-spacing: 2px; */
+}
+.sklcont {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  /* flex-grow: 1; */
 }
