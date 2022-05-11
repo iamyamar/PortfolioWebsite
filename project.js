@@ -5,8 +5,8 @@ const projectData = [
       "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit sunt, voluptate iste iure ipsum repudiandae distinctio exercitationem, debitis ex, tempore quod molestias alias? Corrupti magnam voluptatum in aliquid esse quaerat.",
     stack: "VanillaJS  VanilaCSS",
     image: "./assest/resume.png",
-    weblink: "www.google.com",
-    codelink: "www.google.com",
+    weblink: "https://yashportfolioapp.netlify.app",
+    codelink: "https://github.com/iamyamar/PortfolioWebsite",
   },
   {
     name: "Twitter Bot",
