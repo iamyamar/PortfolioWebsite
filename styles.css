@@ -524,3 +524,15 @@ footer {
   margin-bottom: 20px;
   /* flex-grow: 1; */
 }
+.grp {
+  min-width: 250px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #212d45;
+  border-radius: 10px;
+  margin: 0 10px 40px 10px;
+
+  /* justify-content: center; */
+}
